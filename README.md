@@ -1,5 +1,18 @@
 # WebApi_Tasks
 
+Task Tracker- REST Web API
+--------------------------
+
+Что это
+---
+Внутренний REST API для управления задачами команды. Позволяет создавать проекты, добавлять в них задачи, менять статусы, фильтровать и получать статистику. Работает без базы данных- все данные хранятся в памяти приложения
+
+Стек
+---
+ASP.NET Web API 2 (.NET Framework 4.8)
+
+
+
 <img width="963" height="483" alt="image" src="https://github.com/user-attachments/assets/0f7495ba-75ce-4d86-b66a-ca9fab5e76fd" />
 
 /api/projects
